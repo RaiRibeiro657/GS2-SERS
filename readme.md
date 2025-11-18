@@ -1,5 +1,6 @@
-**# ANÁLISE DE CONSUMO ENERGÉTICO PARA AMBIENTES DE TRABALHO SUSTENTÁVEIS**
-
+#  ANÁLISE DE CONSUMO ENERGÉTICO PARA AMBIENTES DE TRABALHO SUSTENTÁVEIS
+### Gabriel Gibin Leoncio – RM: 565462
+### Rai Augusto Ribeiro – RM: 562870
 ---
 
 ## O objetivo do trabalho:
@@ -32,3 +33,4 @@ Além dessas ações, também é possível integrar essa análise em uma rotina 
 ## Concluindo: 
 
   Por fim, este trabalho reforça como a análise de dados pode ser uma ferramenta poderosa para transformar ambientes de trabalho, permitindo decisões mais inteligentes, econômicas e alinhadas com a sustentabilidade. Entender o consumo é o primeiro passo para melhorar, e este projeto permite a visualização desse caminho.
+
