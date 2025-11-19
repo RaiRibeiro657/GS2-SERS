@@ -34,3 +34,4 @@ Além dessas ações, também é possível integrar essa análise em uma rotina 
 
   Por fim, este trabalho reforça como a análise de dados pode ser uma ferramenta poderosa para transformar ambientes de trabalho, permitindo decisões mais inteligentes, econômicas e alinhadas com a sustentabilidade. Entender o consumo é o primeiro passo para melhorar, e este projeto permite a visualização desse caminho.
 
+## [Vídeo no youtube](https://youtu.be/OxyyxkbClaM)
